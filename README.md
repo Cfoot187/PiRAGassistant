@@ -116,8 +116,7 @@ Add this line to run it every 10 minutes:
 ---
 
 ##  Next Steps
-- [ ] Improve response formatting with Markdown support.
 - [ ] Add an interactive web dashboard for reviewing responses before sending.
 - [ ] Expand document support (e.g., emails, TXT files, etc.).
 
-👨‍💻 **Contributions Welcome!** Feel free to fork and enhance the assistant. 🚀
+**Contributions Welcome!** Feel free to fork and enhance the assistant.
